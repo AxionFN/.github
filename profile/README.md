@@ -1,1 +1,1 @@
-# A OGFN Organization for Axion
+# An OGFN Organization for Axion
