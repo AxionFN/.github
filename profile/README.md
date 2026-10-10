@@ -1,1 +1,1 @@
-# An OGFN Organization for Axion modding
+# An OGFN Organization for Axion
