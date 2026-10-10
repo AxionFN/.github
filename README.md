@@ -1,3 +1,3 @@
 # .github
 
-# A OGFN Organization for Axion hi
+# A OGFN Organization for Axion
